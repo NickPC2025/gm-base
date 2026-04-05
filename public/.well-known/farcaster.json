@@ -6,7 +6,7 @@
   },
   "miniapp": {
     "version": "1",
-    "name": "GM Base",
+    "name": "NICK GM",
     "iconUrl": "https://base-gm.vercel.app/icon.jpg",
     "homeUrl": "https://base-gm.vercel.app",
     "imageUrl": "https://base-gm.vercel.app/og-image.jpg",
